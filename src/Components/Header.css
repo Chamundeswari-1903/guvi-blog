@@ -1,0 +1,16 @@
+.pic {
+    margin-top: 5px;
+    width: 1280px;
+    height: 236px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    display: block; /* Set the default display to block */
+  }
+  
+  
+ 
+    .pic {
+      
+      
+      width: 2700px;
+    }
+  
