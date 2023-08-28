@@ -6,11 +6,9 @@
     display: block; /* Set the default display to block */
   }
   
-  
- 
-    .pic {
-      
-      
-      width: 2700px;
-    }
+  @media screen and (max-width: 767px) {
+  .pic {
+    display: none;
+  }
+}
   
